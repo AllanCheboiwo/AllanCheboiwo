@@ -45,7 +45,7 @@ Here are some projects showcasing my skills:
   Created a Python-based model using YOLOv8, MiDaS, and Kalman filtering for tracking pedestrinans , leveraging PyTorch and OpenCV for accurate analysis.  
     [Repository](https://github.com/COSC444-GROUP10/depthmot.git)
 
-More projects are available in my [repositories](https://github.com/AllanCheboiwo?tab=repositories).
+More projects are available in my [repositories](https://github.com/AllanCheboiwo).
 
 ---
 
