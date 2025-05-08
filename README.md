@@ -49,19 +49,10 @@ More projects are available in my [repositories](https://github.com/AllanCheboiw
 ## 💼 Experience Highlights
 
 - **Acronym Solutions | Network Engineering Co-op** (Sep 2023 – Sep 2024)  
-  Automated network data validation with Python, supported PON setups, and documented Cisco switch replacements, enhancing infrastructure efficiency.
+During my co-op tenure as a Network Engineering student at Acronym Solutions in Toronto, ON, from September 2023 to September 2024, I worked on several impactful projects where I analyzed and updated network diagrams to improve troubleshooting efficiency and support optical network and data refresh initiatives. I also took a key role in the Network Switch Replacement project, designing documentation and spreadsheets to ensure everything ran smoothly under tight deadlines. Using the Command Line Interface (CLI), I validated network data to keep our records accurate for better decision-making, and I supported the Sales Engineering team with the Vendor Management System process, helping improve sales outcomes. It was a great experience that let me sharpen my technical skills, attention to detail, and ability to collaborate under pressure
 
 - **UBC Okanagan | Teaching Assistant, COSC 121 & DATA 101** (Sep 2021 – Apr 2022)  
-  Guided students in Python and Java labs, providing technical support and feedback to improve data analysis and coding skills.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Machine Learning with PyTorch
-- Infrastructure as Code (Terraform)
-- Distributed Systems Design
-- Cloud Computing (AWS)
+  Guided students in R and Java labs, providing technical support and feedback to improve data analysis and coding skills.
 
 ---
 
