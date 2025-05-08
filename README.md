@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm passionate about building scalable, impactful tech solutions, from software applications to network infrastructure. As a **Network Engineering Co-op** at Acronym Solutions, I automated processes with Python and supported Passive Optical Network (PON) setups. As a **Teaching Assistant** at UBCO, I guided students in Python and data analysis, honing my communication skills.
+I'm passionate about building scalable, impactful tech solutions, from software applications to network infrastructure.
 
 I thrive on solving complex problems using Python, machine learning, and networking tools, and I'm excited to contribute to innovative projects in software engineering, data science, or IT infrastructure. My goal is to create systems that connect and empower users globally.
 
@@ -18,12 +18,11 @@ I thrive on solving complex problems using Python, machine learning, and network
 
 - **Languages**: Python (FastAPI, PyTorch, OpenCV), JavaScript, PHP, Java, SQL
 - **Databases**: MySQL, PostgreSQL, SQLite
-- **Networking**: TCP/IP, Wifi, UNIX/Linux (CLI), Passive Optical Network (PON)
+- **Networking**: TCP/IP Protocol stack, BGP, UNIX/Linux (CLI), Passive Optical Network (PON)
 - **Data & Modeling**: Machine Learning, Data Analysis, Quantitative Modeling, Data Visualization
 - **Tools**: Docker, Git, GitHub, Tableau, Visual Studio Code, MAMP, PHPUnit
 - **Concepts**: Process Automation, Software Development, Network Troubleshooting, Scalable Systems
 - **Soft Skills**: Collaboration, Communication, Problem-Solving, Adaptability
-- **Languages**: English (Fluent)
 
 ---
 
@@ -33,15 +32,15 @@ Here are some projects showcasing my skills:
 
 - 🛡️ **Insurance Policy Checker**  
   Co-developed an NLP-based web app with Python (FastAPI), React, and PostgreSQL to compare insurance policies for brokers, using Docker for scalable deployment.  
-  [Repository](https://github.com/AllanCheboiwo/insurance-policy-checker) *(Placeholder—update with actual link)*
+  [Repository]([https://github.com/AllanCheboiwo/insurance-policy-checker](https://github.com/COSC-499-W2024/capstone-project-group-11-002.git) *
 
 - 📊 **E-Commerce BI Dashboard**  
   Built a business intelligence dashboard analyzing retail sales data, with Python for data cleaning, SQL/SQLite for modeling, and Tableau for interactive visualizations.  
   [Tableau Public](https://public.tableau.com/views/ecommerce-dashboard/E-CommerceSalesDashboard)
 
 - 📍 **Multi-Object Tracking**  
-  Created a Python-based model using YOLOv8, MiDaS, and Kalman filtering for object trajectory prediction, leveraging PyTorch and OpenCV for accurate analysis.  
-  [Repository](https://github.com/AllanCheboiwo/multi-object-tracking) *(Placeholder—update with actual link)*
+  Created a Python-based model using YOLOv8, MiDaS, and Kalman filtering for tracking pedestrinans , leveraging PyTorch and OpenCV for accurate analysis.  
+    [Repository](https://github.com/COSC444-GROUP10/depthmot.git)
 
 More projects are available in my [repositories](https://github.com/AllanCheboiwo?tab=repositories).
 
