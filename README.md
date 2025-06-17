@@ -29,6 +29,9 @@ I thrive on solving complex problems using Python, machine learning, and network
 ## 📂 Highlight Projects
 
 Here are some projects showcasing my skills:
+- 🚀 **AI-Powered Resume Builder**  
+  Engineered a full-stack resume platform using Next.js (TypeScript) and Python (FastAPI). It leverages the OpenAI API to tailor professional content to job descriptions and uses LaTeX to generate polished, high-quality PDF resumes, all containerized with Docker for seamless deployment.  
+  [Repository](https://github.com/COSC-499-W2024/capstone-project-group-11-002.git)
 
 - 🛡️ **Insurance Policy Checker**  
   Co-developed an NLP-based web app with Python (FastAPI), React, and PostgreSQL to compare insurance policies for brokers, using Docker for scalable deployment.  
@@ -39,7 +42,6 @@ Here are some projects showcasing my skills:
   [Tableau Public](https://public.tableau.com/views/ecommerce-dashboard/E-CommerceSalesDashboard)
   [Repository](https://github.com/AllanCheboiwo/ecommerce-dashboard.git)
  
-  
 
 - 📍 **Multi-Object Tracking**  
   Created a Python-based model using YOLOv8, MiDaS, and Kalman filtering for tracking pedestrinans , leveraging PyTorch and OpenCV for accurate analysis.  
