@@ -1,70 +1,94 @@
 # 👋 Hi, I'm Allan Cheboiwo
 
-🎓 **Computer Science Student** (BSc, expected May 2025) at the University of British Columbia Okanagan (UBCO), with a strong foundation in software development, network engineering, and data-driven solutions.
+🎓 **Computer Science Graduate** from the University of British Columbia Okanagan, specializing in systems programming and low-level software development.
 
-🌐 [GitHub](https://github.com/AllanCheboiwo) | [Portfolio](https://allancheboiwo.com) | 📧 [kiplongeiallan@gmail.com](mailto:kiplongeiallan@gmail.com) | 📍 Kelowna, BC, Canada | 🔗 [LinkedIn](https://www.linkedin.com/in/allan-cheboiwo-1840b7209)
+🌐 [GitHub](https://github.com/AllanCheboiwo) | [Portfolio](https://allancheboiwo.com) | 📧 [kiplongeiallan@gmail.com](mailto:kiplongeiallan@gmail.com) | 📍 Vancouver, BC, Canada | 🔗 [LinkedIn](https://www.linkedin.com/in/allan-cheboiwo-1840b7209)
 
 ---
 
 ## 🚀 About Me
 
-I'm passionate about building scalable, impactful tech solutions, from software applications to network infrastructure.
+I'm a systems-focused developer passionate about understanding how software interacts with hardware. My journey involves diving deep into C programming, operating systems, and computer architecture to build efficient, performance-critical software.
 
-I thrive on solving complex problems using Python, machine learning, and networking tools, and I'm excited to contribute to innovative projects in software engineering, data science, or IT infrastructure. My goal is to create systems that connect and empower users globally.
-
----
-
-## 🧠 Technical Skills
-
-- **Languages**: Python (FastAPI, PyTorch, OpenCV), JavaScript, PHP, Java, SQL
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **Networking**: TCP/IP Protocol stack, BGP, UNIX/Linux (CLI), Passive Optical Network (PON)
-- **Data & Modeling**: Machine Learning, Data Analysis, Quantitative Modeling, Data Visualization
-- **Tools**: Docker, Git, GitHub, Tableau, Visual Studio Code, MAMP, PHPUnit
-- **Concepts**: Process Automation, Software Development, Network Troubleshooting, Scalable Systems
-- **Soft Skills**: Collaboration, Communication, Problem-Solving, Adaptability
+I'm currently exploring systems programming concepts through hands-on projects and seeking opportunities to contribute to low-level software infrastructure.
 
 ---
 
-## 📂 Highlight Projects
+## 🧠 Technical Focus
 
-Here are some projects showcasing my skills:
-- 🚀 **AI-Powered Resume Builder**  
-  Engineered a full-stack resume platform using Next.js (TypeScript) and Python (FastAPI). It leverages the OpenAI API to tailor professional content to job descriptions and uses LaTeX to generate polished, high-quality PDF resumes, all containerized with Docker for seamless deployment.  
-  [Repository](https://github.com/COSC-499-W2024/capstone-project-group-11-002.git)
+### **Core Languages & Systems**
+- **C Programming** - Systems development, memory management, performance optimization
+- **Linux/UNIX** - System programming, shell scripting, development environment
+- **Computer Architecture** - Hardware-software interaction, memory hierarchy, processor design
 
-- 🛡️ **Insurance Policy Checker**  
-  Co-developed an NLP-based web app with Python (FastAPI), React, and PostgreSQL to compare insurance policies for brokers, using Docker for scalable deployment.  
-  [Repository](https://github.com/COSC-499-W2024/capstone-project-group-11-002.git)
+### **Tools & Platforms**
+- **Version Control**: Git, GitHub
+- **Development**: GCC, GDB, Make, VS Code
+- **Containers**: Docker
+- **Databases**: SQLite, PostgreSQL
 
-- 📊 **E-Commerce BI Dashboard**  
-  Built a business intelligence dashboard analyzing retail sales data, with Python for data cleaning, SQL/SQLite for modeling, and Tableau for interactive visualizations.  
-  [Tableau Public](https://public.tableau.com/views/ecommerce-dashboard/E-CommerceSalesDashboard)
-  [Repository](https://github.com/AllanCheboiwo/ecommerce-dashboard.git)
- 
-
-- 📍 **Multi-Object Tracking**  
-  Created a Python-based model using YOLOv8, MiDaS, and Kalman filtering for tracking pedestrinans , leveraging PyTorch and OpenCV for accurate analysis.  
-    [Repository](https://github.com/COSC444-GROUP10/depthmot.git)
-
-More projects are available in my [repositories](https://github.com/AllanCheboiwo).
+### **Concepts & Interests**
+- Operating Systems Internals
+- Memory Management & Allocation
+- System Calls & Process Management
+- Boot Processes & UEFI/Firmware
+- Database Storage Engines
+- Network Protocols & Stack
 
 ---
 
-## 💼 Experience Highlights
+## 📂 Systems Projects
 
-- **Acronym Solutions | Network Engineering Co-op** (Sep 2023 – Sep 2024)  
-During my co-op tenure as a Network Engineering student at Acronym Solutions in Toronto, ON, from September 2023 to September 2024, I worked on several impactful projects where I analyzed and updated network diagrams to improve troubleshooting efficiency and support optical network and data refresh initiatives. I also took a key role in the Network Switch Replacement project, designing documentation and spreadsheets to ensure everything ran smoothly under tight deadlines. Using the Command Line Interface (CLI), I validated network data to keep our records accurate for better decision-making, and I supported the Sales Engineering team with the Vendor Management System process, helping improve sales outcomes. It was a great experience that let me sharpen my technical skills, attention to detail, and ability to collaborate under pressure
+### **C Programming & Systems Exploration**
+_Current Focus_
+- Mastering C programming language and systems development best practices
+- Studying operating systems architecture and computer hardware interaction
+- Building understanding of memory management, process scheduling, and system calls
 
-- **UBC Okanagan | Teaching Assistant, COSC 121 & DATA 101** (Sep 2021 – Apr 2022)  
-  Guided students in R and Java labs, providing technical support and feedback to improve data analysis and coding skills.
+### **SQLite Database Internals** 
+_Learning Project_
+- Studying core database concepts including storage engines and query processing
+- Exploring low-level data structures and system performance optimization
+- [Repository](https://github.com/AllanCheboiwo/sqlite-internals)
+
+### **Network Engineering Experience**
+_Acronym Solutions Co-op_
+- Analyzed and updated network diagrams for optical network infrastructure
+- Validated network data using CLI tools for accurate system records
+- Contributed to Network Switch Replacement project with technical documentation
+
+---
+
+## 💼 Experience
+
+### **Acronym Solutions** | Network Engineering Co-op
+_Sep 2023 – Sep 2024 | Toronto, ON_
+- Updated network diagrams to improve troubleshooting efficiency for optical networks
+- Designed documentation for Network Switch Replacement project under tight deadlines
+- Validated network configurations using Command Line Interface (CLI) tools
+- Supported Sales Engineering team with Vendor Management System processes
+
+### **UBC Okanagan** | Teaching Assistant
+_Sep 2021 – Apr 2022 | Kelowna, BC_
+- Guided students in programming fundamentals using Java and R
+- Provided technical support and feedback for data analysis and coding assignments
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+_University of British Columbia Okanagan_  
+*Relevant Coursework: Algorithms, Computer Architecture, Operating Systems, Software Engineering*
 
 ---
 
 ## 📫 Let's Connect
 
-I’m open to opportunities in software engineering, data science, or IT infrastructure. Reach out via [email](mailto:kiplongeiallan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/allan-cheboiwo-1840b7209).
+I'm seeking **systems programming, embedded software, or low-level development roles** where I can contribute to performance-critical software infrastructure. 
+
+Reach out via [email](mailto:kiplongeiallan@gmail.com) or [LinkedIn](https://www.linkedin.com/in/allan-cheboiwo-1840b7209) to discuss opportunities in Vancouver, Toronto, or remote positions across Canada.
 
 ---
 
-> “Build solutions that scale, connect, and inspire.”
+> "The computer was born to solve problems that did not exist before." — Bill Gates
