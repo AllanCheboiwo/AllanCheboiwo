@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Graduate** from the University of British Columbia Okanagan, specializing in systems programming and low-level software development.
 
-🌐 [GitHub](https://github.com/AllanCheboiwo) | [Portfolio](https://allancheboiwo.com) | 📧 [kiplongeiallan@gmail.com](mailto:kiplongeiallan@gmail.com) | 📍 Vancouver, BC, Canada | 🔗 [LinkedIn](https://www.linkedin.com/in/allan-cheboiwo-1840b7209)
+🌐 [GitHub](https://github.com/AllanCheboiwo) | 📧 [kiplongeiallan@gmail.com](mailto:kiplongeiallan@gmail.com) | 📍 Vancouver, BC, Canada | 🔗 [LinkedIn](https://www.linkedin.com/in/allan-cheboiwo-1840b7209)
 
 ---
 
