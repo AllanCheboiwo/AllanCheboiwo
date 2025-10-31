@@ -51,12 +51,6 @@ _Learning Project_
 - Exploring low-level data structures and system performance optimization
 - [Repository](https://github.com/AllanCheboiwo/sqlite-internals)
 
-### **Network Engineering Experience**
-_Acronym Solutions Co-op_
-- Analyzed and updated network diagrams for optical network infrastructure
-- Validated network data using CLI tools for accurate system records
-- Contributed to Network Switch Replacement project with technical documentation
-
 ---
 
 ## 💼 Experience
