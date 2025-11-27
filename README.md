@@ -35,16 +35,14 @@ Much of my work involves Python, Java, C, and modern web frameworks, and I’m a
 
 ### **Technologies**
 - FastAPI  
-- React  
-- Node.js  
+- React   
 - PostgreSQL  
 - SQLite  
 
 ### **Areas of Interest**
 - Backend development  
 - Systems programming  
-- Databases and storage systems  
-- Cloud services  
+- Databases and storage systems   
 - Distributed systems  
 - Software performance and reliability  
 
