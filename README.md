@@ -4,7 +4,7 @@
 
 🌐 [GitHub](https://github.com/AllanCheboiwo)  
 📧 [kiplongeiallan@gmail.com](mailto:kiplongeiallan@gmail.com)  
-📍 Kelowna, BC, Canada  
+📍  Canada  
 🔗 [LinkedIn](https://www.linkedin.com/in/allan-cheboiwo-1840b7209)
 
 ---
